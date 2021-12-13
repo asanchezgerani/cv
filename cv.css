@@ -1,0 +1,80 @@
+body{
+    font-family: Helvetica, Arial , sans-serif;
+    margin: 0;
+}
+
+header{
+    background-color: #9c9c9c;
+    text-align: center;
+    padding: 16px;
+}
+
+h1{
+    display: inline-block;
+}
+
+h1,header>p,div{
+    font-weight: 600;
+}
+
+#descripcionEspecialidad{
+    background-color: #e1e3e2;
+    text-align: center;
+    padding: 10px;
+}
+
+.educacion{
+    display: inline-block;
+    width: 68%;
+    vertical-align: top;
+}
+
+.imagen{
+    display: inline-block;
+    width: 30%;
+    margin-top: 20px;
+}
+
+p{
+    width: 400px;
+    display: inline-block;
+}
+
+section>div{
+    width: 900px;
+    /*centrado*/
+    margin-right: auto;
+    margin-left: auto;
+}
+
+section>div>div{
+    background-color: white;
+}
+
+h3{
+    font-size: 32px;
+    font-weight: 700;
+}
+
+dl{
+    display: inline-block;
+}
+
+dt{
+    font-size: 18px;
+    text-transform: uppercase;
+    margin-top: 18px;
+    margin-bottom: 12px;
+    margin-left: 20px;
+}
+
+dd{
+    font-size: 16px;
+    margin-top: 25px;
+    margin-bottom: 30px;
+}
+
+li{
+    margin-top: 20px;
+}
+
